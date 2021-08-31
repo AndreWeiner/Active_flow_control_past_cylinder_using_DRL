@@ -14,3 +14,16 @@ lnInclude
 *.so
 .vscode
 *.sif
+.bash*
+.singularity
+.ssh
+slurm*
+backup
+DRL_py/env/sample*
+DRL_py/env/base_case/baseline_data
+DRL_py/failed
+DRL_py/Data
+DRL_py/agentRotatingWallVelocity/test
+DRL_py/results
+flow_past_cylinder_by_DRL
+testing_purposes.py
